@@ -11,5 +11,6 @@ public class Demo {
 		int e=10;
 		int f=30;
 		System.out.println(c+d);
+		int c=102;
 	}
 }
